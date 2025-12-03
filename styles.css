@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caramel&family=Comic+Relief:wght@400;700&display=swap');
+
+:root {
+    --header-height: 3.5rem;
+    --first-color:hsl(140,40%,48%);
+    --first-color-alt:hsl(140,40%,44%);
+    --title-color:hsl(140,4%,12%);
+    --text-color:hsl(140,4%,40%);
+    --text-color-ligth:hsl(140,4%,64%);
+    --white-color:hsl(0,0%,100%);
+    --body-color:hsl(0,0%,100%);
+    --container-color
+}
