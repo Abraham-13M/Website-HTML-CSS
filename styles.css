@@ -190,15 +190,21 @@ img {
 
 .nav__list{
     display: flex;
-    flex-direction: column;
+    flex-direction: vertical;
     text-align: center;
     row-gap: 2.5rem;
+    
+    
 
+}
+
+.nav__item{
+    margin: 2rem;
 }
 
 .nav__link{
     color: var(--title-color);
-    font-wight: var(--font-semi-bold);
+    font-weight: var(--font-semi-bold);
     transition: color .4s;
 
 }
@@ -261,10 +267,12 @@ img {
     font-size: var(--biggest-font-size);
     font-family: var(--second-font);
     margin-bottom: 1rem;
+    
 }
 
 .home__description{
    margin-bottom: 2rem; 
+   
 }
 
 .home__fruit,
